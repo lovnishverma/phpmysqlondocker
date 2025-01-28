@@ -63,7 +63,7 @@ On the command line (the terminal)
 - Start the container
   - `docker compose up`
   - **Or run it in the background to free up the terminal**
-   ** - `docker compose up -d`**
+   **docker compose up -d**
 - To stop the containers
   - press ctrl-c
   - then run `docker compose down`
@@ -71,7 +71,7 @@ On the command line (the terminal)
   [http://pmamp.lvh.me ](http://pmamp.lvh.me)
   - You can also edit the /etc/hosts file to allow for using existing domain
     names. For example, add the following to your /etc/hosts file:
-    - `**127.0.0.1** example.com`
+    - `127.0.0.1 example.com`
     - How to change your /etc/hosts file:
       - ([Linux or Mac](https://www.makeuseof.com/tag/modify-manage-hosts-file-linux/)), 
       - or c:\windows\system32\drivers\etc\hosts ([Windows](https://www.howtogeek.com/howto/27350/beginner-geek-how-to-edit-your-hosts-file/)). 
