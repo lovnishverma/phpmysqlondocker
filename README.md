@@ -1,4 +1,4 @@
-# PMAMP - PhpMyadmin with Apache Mysql and Php
+# PhpMyadmin with Apache Mysql and Php
 
 Docker with Apache, PHP, MySQL, phpMyAdmin
 
